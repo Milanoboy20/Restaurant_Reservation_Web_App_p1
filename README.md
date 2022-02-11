@@ -6,20 +6,28 @@ Here goes your awesome project description!
 
 ## Technologies Used
 
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+* Java 8
+* JUnit 5
+* Apache Maven
+* Custom ORM Framework
+* Apache Tomcat 8.5.75
+* PostGreSQL deployed on AWS RDS
+* Java EE Servlet API (v4.0+)
+* GSON Library
+* Postman
+* Git SCM (on GitHub)
 
 ## Features
 
-List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
+* Customers can create new reservations without have to create login accounts
+* Customers can add multiple reservations under thier name
+* Customers can delete their reservations
+* Customers can view their reservations
+* Customers can update their reservations
 
 To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+* Create a UI for Users to interact with the application
+* Deploy the and host the Web App
 
 ## Getting Started
    
