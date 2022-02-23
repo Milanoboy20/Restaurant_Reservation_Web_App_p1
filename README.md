@@ -27,7 +27,7 @@ Here goes your awesome project description!
 
 To-do list:
 * Create a UI for Users to interact with the application
-* Deploy the and host the Web App
+* Deploy and host the Web App on an EC2 instance
 
 ## Getting Started
    
@@ -46,8 +46,7 @@ To-do list:
 
 ## Contributors
 
-> Here list the people who have contributed to this project. (ignore this section, if its a solo project)
+* Abdul Samad Sadat   
+* Micheal Ord 
 
-## License
 
-This project uses the following license: [<license_name>](<link>).
