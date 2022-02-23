@@ -25,17 +25,15 @@ Here goes your awesome project description!
 * Customers can view their reservations
 * Customers can update their reservations
 
-To-do list:
+To-do/Future Implementation:
 * Create a UI for Users to interact with the application
 * Deploy and host the Web App on an EC2 instance
 
 ## Getting Started
    
-(include git clone command)
-(include all environment setup steps)
+First clone the repository https://github.com/Milanoboy20/Restaurant_Reservation_Web_App_p1.git
 
-> Be sure to include BOTH Windows and Unix command  
-> Be sure to mention if the commands only work on a specific platform (eg. AWS, GCP)
+> In the cloned folder
 
 - All the `code` required to get started
 - Images of what it should look like
