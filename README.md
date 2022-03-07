@@ -2,8 +2,8 @@
 
 ## Project Description
 
-Here goes your awesome project description!
-
+Restaurant Reservation Web App allows users to make table reservations to have family dinners/party, dates, bussiness dinner etc
+They do not need to have/create an account to be able to do so
 ## Technologies Used
 
 * Java 8
